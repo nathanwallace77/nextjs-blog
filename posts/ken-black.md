@@ -1,6 +1,6 @@
 ---
 title: 'Irish toy retailer Ken Black accelerate growth with Remarkable'
-date: '2020-01-01'
+date: '2020-03-17'
 ---
 
 For those unfamiliar, Ken Black are the Smyths Toys of Ireland. The established retailer is one of Ireland’s largest toy retailers and this year have launched their 1st eCommerce site, choosing Remarkable as their partner to do so with.

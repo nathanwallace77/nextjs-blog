@@ -1,6 +1,6 @@
 ---
 title: 'Vacancy: Mid-level .NET Developer'
-date: '2020-01-01'
+date: '2020-03-17'
 ---
 
 ## At Remarkable Commerce we’re looking for a Mid-level Backend Developer to join our team.

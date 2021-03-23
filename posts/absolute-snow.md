@@ -1,6 +1,6 @@
 ---
 title: 'Absolute Snow become the UK’s No.1 retailer of Snow Sports Equipment'
-date: '2020-01-01'
+date: '2020-03-17'
 ---
 Now recognised as the UK’s no.1 retailer of snow sports equipment online by the [Ski Club of Great Britain](https://www.linkedin.com/company/ski-club-of-great-britain/), [Absolute Snow](https://remarkable.net/client/absolutesnow/) have progressed over many years into becoming a market leader.
 
