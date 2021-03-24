@@ -14,7 +14,7 @@ Here are the top 7 trends that UK retailers will be focusing on in 2021:
 7. [Social Selling](https://remarkable.net/blog/top-7-early-ecommerce-trends-of-2021/#socialselling)
 
 (Click to read more about each trend)
-![image](nextjs-blog\posts\livestreamingcommerce.jpg)
+![image](/images/livestreamingcommerce.jpg)
 
 ## 1. Retailers Live-Streaming to their customers
 
@@ -26,7 +26,7 @@ Live commerce can be auction-based (think eBay and other popular marketplaces wh
 
 [Here is a great article from Econsultancy](https://econsultancy.com/how-ecommerce-brands-are-incorporating-live-streaming-into-digital-strategy/) from July 2020, going into more detail about live streaming being included in retailers digital strategies.
 
-![image](nextjs-blog\public\images\returnscommerce.jpg)
+![image](/images/returnscommerce.jpg)
 
 ## 2. Re-Commerce, Re-sale and the 2nd-hand market
 
@@ -38,7 +38,7 @@ When consumers are looking to save money, and accept a cheaper option for the sa
 
 Another reason why Re-commerce is becoming a stronger trend is due to consumers wanting to be more ecological and kinder on the planet. So buying a product which was previously owned, leads to a smaller amount being created in the long term.
 
-![image](nextjs-blog\public\images\productchoice.jpg)
+![image](/images/productchoice.jpg)
 
 ## 3. Rent a Product
 
@@ -48,7 +48,7 @@ Over the last few years, we have seen a dramatic increase in new hire technology
 
 Our client [Moss Bros](https://remarkable.net/client/mosshire/). have been renting suits and formalwear for over 100 years and relaunched their [Hire website](https://www.mossbroshire.co.uk/) proposition with us in late 2017. This particular project gave us insight into the huge complexities and processes that enable a hiring process to be possible, and also how popular a rental proposition can be.
 
-![image](nextjs-blog\public\images\subscriptioncommerce.jpg)
+![image](/images/subscriptioncommerce.jpg)
 
 ## 4. Subscription Services
 
@@ -58,7 +58,7 @@ An eCommerce subscription model is a common business model in which a company pr
 
 This trend really plays on consumers who are looking for ease and convenience, and usually have a spare chunk of change to pay for it. [Here is an article from Business of Fashion](https://www.businessoffashion.com/articles/news-analysis/can-subscription-services-work-for-fashion), published in 2016, explaining the early adoption of the trend.
 
-![image](nextjs-blog\public\images\whatsappcommerce.jpg)
+![image](/images/whatsappcommerce.jpg)
 
 ## 5. Integrated Chat – WhatsApp, FB Messenger, WeChat
 
@@ -66,7 +66,7 @@ Chat systems have been available since the birth of the Internet, and are common
 
 Systems like WhatsApp, Facebook Messenger and WeChat are becoming particularly common for retailers to offer their customers. These systems are preferred over more complex and advanced live-chat systems like ZenDesk, LiveChat, Olark or Tawk, and this is due to a consumer being able to integrate this chat with the rest of their personal chats, instead of it being strictly only accessible on the retailer’s website.
 
-![image](nextjs-blog\public\images\productimagescommerce.jpg)
+![image](/images/productimagescommerce.jpg)
 
 ## 6. Multi-model Product Images *(& WFH shoots)*
 
@@ -78,7 +78,7 @@ Retailers like ASOS have been leading on this front since 2018, where they updat
 
 With the majority of the UK working from their homes because of COVID, we have begun to see many seasonal products include product images taken in homes instead of photography studios. This is another trend likely to continue for the foreseeable, and it is likely having a positive impact on conversion rate because customers are relating to the environment the model is in and seeing themselves using or wearing the product, easier than before.
 
-![image](nextjs-blog\public\images\socialselling.jpg)
+![image](/images/socialselling.jpg)
 
 ## 7. Social Selling
 
